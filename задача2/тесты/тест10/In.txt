@@ -1,0 +1,1 @@
+turnChordsIntoTab('Am Am C C D D G G')
